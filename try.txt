@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 002
 
+=======
+1
+>>>>>>> parent of 268a40d... trial1 ulet
